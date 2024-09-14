@@ -1,0 +1,184 @@
+{
+  "OSType": "Windows_NT",
+  "Platform": "win32",
+  "RAM": 7781593088,
+  "USEDRAM": 6852042752,
+  "CPU": [
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 19500,
+        "nice": 0,
+        "sys": 224750,
+        "idle": 6538453,
+        "irq": 3093
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 8437,
+        "nice": 0,
+        "sys": 35515,
+        "idle": 6738750,
+        "irq": 109
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 41625,
+        "nice": 0,
+        "sys": 182046,
+        "idle": 6559031,
+        "irq": 468
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 7531,
+        "nice": 0,
+        "sys": 17984,
+        "idle": 6757187,
+        "irq": 15
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 23671,
+        "nice": 0,
+        "sys": 107796,
+        "idle": 6651234,
+        "irq": 171
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 11656,
+        "nice": 0,
+        "sys": 27343,
+        "idle": 6743593,
+        "irq": 93
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 24000,
+        "nice": 0,
+        "sys": 110406,
+        "idle": 6648187,
+        "irq": 296
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 15234,
+        "nice": 0,
+        "sys": 50203,
+        "idle": 6717156,
+        "irq": 125
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 21484,
+        "nice": 0,
+        "sys": 98718,
+        "idle": 6662390,
+        "irq": 171
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 6421,
+        "nice": 0,
+        "sys": 14953,
+        "idle": 6761218,
+        "irq": 0
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 21453,
+        "nice": 0,
+        "sys": 148171,
+        "idle": 6612968,
+        "irq": 234
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 10328,
+        "nice": 0,
+        "sys": 16625,
+        "idle": 6755640,
+        "irq": 31
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 10718,
+        "nice": 0,
+        "sys": 69781,
+        "idle": 6702093,
+        "irq": 171
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 8765,
+        "nice": 0,
+        "sys": 13859,
+        "idle": 6759968,
+        "irq": 31
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 10750,
+        "nice": 0,
+        "sys": 66718,
+        "idle": 6705125,
+        "irq": 203
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+      "speed": 3194,
+      "times": {
+        "user": 7812,
+        "nice": 0,
+        "sys": 50000,
+        "idle": 6724781,
+        "irq": 140
+      }
+    }
+  ]
+}
